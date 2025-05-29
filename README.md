@@ -1,1 +1,1 @@
-# Simple DLL (Fibonacci)
+# Simple DLL (Fibonacci in C++)
